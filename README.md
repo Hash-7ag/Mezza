@@ -1,1 +1,1 @@
-> #[Open in browser](https://ali-hsv.github.io/Mezza/)
+> #[Open in browser](https://hash-7ag.github.io/Mezza/)
